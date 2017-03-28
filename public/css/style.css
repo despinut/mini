@@ -24,7 +24,7 @@ body {
     text-transform: uppercase;
     font-weight: bold;
     border: 2px solid #222;
-    background: #222;
+    /*background: #222;*/
     color: #fff;
 }
 .navigation a:hover {
